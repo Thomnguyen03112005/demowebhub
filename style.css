@@ -102,8 +102,8 @@ body{
 .hiden{
   width: 80px;
   height: 80px;;
-  bottom: -250px;
-  right: -1200px;
+  bottom: -550px;
+  right: -1000px;
   background-color: none;
   background-image: url("./play.png");
   background-size: cover;
@@ -128,8 +128,8 @@ body{
   border-radius: 10px;
   cursor: default;
   animation: animate 1.5s linear infinite;
-  right: -989px;
-  bottom: 150px;
+  right: -500px;
+  bottom: 100px;
 }
 .wrapper .display,
 .wrapper span{
