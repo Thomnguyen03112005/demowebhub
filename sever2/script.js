@@ -219,6 +219,61 @@ const music_list = [
         artist : 'Hieuthuhai',
         music : 'music/bautroihieuthu3.mp3',
     },
+                         {
+        img : 'images/stay.png',
+        name : 'Để bẩu trời nhìn hai ta',
+        artist : 'Hieuthuhai',
+        music : 'music/bautroihieuthu3.mp3',
+    },
+                          {
+        img : 'images/stay.png',
+        name : 'Just Friends',
+        artist : 'Audrey Mika',
+        music : 'music/JustF.mp3',
+    },
+                           {
+        img : 'images/stay.png',
+        name : 'HONESTY',
+        artist : 'Pink Sweat$ (Cover by BANG YE DAM - 방예담)',
+        music : 'music/Hones.mp3',
+    },
+                            {
+        img : 'images/stay.png',
+        name : 'Dịu dàng em đến',
+        artist : 'Erik',
+        music : 'music/diudangem.mp3',
+    },
+                             {
+        img : 'images/stay.png',
+        name : 'necessary girl',
+        artist : 'oceanfromtheblue',
+        music : 'music/oceanfromtheblue.mp3',
+    },
+    
+                              {
+        img : 'images/stay.png',
+        name : 'You Right',
+        artist : 'Doja Cat',
+        music : 'music/youphai.mp3',
+    },
+                               {
+        img : 'images/stay.png',
+        name : 'You and I',
+        artist : 'Katy Perry',
+        music : 'music/banandtoi.mp3',
+    },
+                                {
+        img : 'images/stay.png',
+        name : 'Akuma no ko',
+        artist : '「悪魔の子」by Ai Higuchi',
+        music : 'music/Akuma.mp3',
+    },
+                                 {
+        img : 'images/stay.png',
+        name : 'Love me like that',
+        artist : 'sam kim',
+        music : 'music/loveme.mp3',
+    },
     
 ];
 
