@@ -50,6 +50,18 @@ const music_list = [
         name : 'Mind Games',
         artist : 'Mind games',
         music : 'music/abcd.mp3'
+    },
+{
+        img : 'images/stay.png',
+        name : 'lofi rain',
+        artist : ' ',
+        music : 'music/abcd.mp3'
+    },
+{
+        img : 'images/stay.png',
+        name : 'Wished 1001',
+        artist : 'kean Nguyen',
+        music : 'music/abc.mp3'
     }
 ];
 
