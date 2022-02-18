@@ -4,6 +4,7 @@
        <meta charset="UTF-8">
         <link rel="stylesheet" href="style.css">
         <link rel="stylesheet" href="loading1.css">
+<link rel="shortcut icon" href="./facicon.png" type="image/x-icon">  
         <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
         <title>Thowm Sever Website</title>
         <head>
