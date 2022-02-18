@@ -193,7 +193,7 @@ const music_list = [
         img : 'images/stay.png',
         name : 'Thay mọi cô gái yêu anh',
         artist : 'Amee',
-        music : 'music/aibiet.mp3'
+        music : 'music/thayamee.mp3'
     },
                         {
         img : 'images/d.jpg',
