@@ -83,7 +83,7 @@ const music_list = [
     },
             {
         img : 'images/stay.png',
-        name : 'Vài câu nói có khiến người thay đổi',
+        name : 'Vài câu nói...',
         artist : 'Grey D',
         music : 'music/vaicaunoi.mp3'
     },
