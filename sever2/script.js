@@ -55,7 +55,7 @@ const music_list = [
         img : 'images/stay.png',
         name : 'lofi rain',
         artist : ' ',
-        music : 'music/abcd.mp3'
+        music : 'music/abcc.mp3'
     },
 {
         img : 'images/stay.png',
