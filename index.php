@@ -29,10 +29,10 @@
               </div>
             </div>
             <div class="subnav">
-              <button class="subnavbtn">Sever<i class="fa fa-caret-down"></i></button>
+              <button class="subnavbtn">Server<i class="fa fa-caret-down"></i></button>
               <div class="subnav-content">
-                <a href="../sever1.php">Sever 1</a>
-                <a href="../sever2/sever2.php">Sever 2</a>
+                <a href="../sever1.php">Server 1</a>
+                <a href="../sever2/sever2.php">Server 2</a>
                 <a href="#link3">Đang cập nhật</a>
                 <a href="#link4">Đang cập nhật</a>
               </div>
