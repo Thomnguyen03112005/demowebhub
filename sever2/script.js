@@ -34,12 +34,6 @@ const music_list = [
         music : 'music/fallingdown.mp3'
     },
     {
-        img : 'images/faded.png',
-        name : 'Faded',
-        artist : 'Alan Walker',
-        music : 'music/Faded.mp3'
-    },
-    {
         img : 'images/ratherbe.jpg',
         name : 'Rather Be',
         artist : 'Clean Bandit',
@@ -48,7 +42,7 @@ const music_list = [
    {
         img : 'images/stay.png',
         name : 'Mind Games',
-        artist : 'Mind games',
+        artist : 'Sickick',
         music : 'music/abcd.mp3'
     },
 {
@@ -166,9 +160,9 @@ const music_list = [
         music : 'music/loveboy.mp3'
     },
                     {
-        img : 'images/stay.png',
+        img : 'images/levi1.jpg',
         name : 'Bored',
-        artist : 'híu',
+        artist : 'Billie Eilish',
         music : 'music/bored.mp3'
     },
                     {
