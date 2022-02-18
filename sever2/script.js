@@ -112,8 +112,8 @@ const music_list = [
         music : 'music/duchomai.mp3'
     },
                 {
-        img : 'images/stay.png',
-        name : 'Kiss for me',
+        img : 'images/kfm.jpg',
+        name : 'Kiss me more',
         artist : 'Dojat',
         music : 'music/kissfor.mp3'
     },
@@ -130,7 +130,7 @@ const music_list = [
         music : 'music/ifly.mp3'
     },
                     {
-        img : 'images/stay.png',
+        img : 'images/cv.jpg',
         name : 'good 4 u',
         artist : 'Olivia Rodrigo ',
         music : 'music/good4u.mp3'
@@ -160,7 +160,7 @@ const music_list = [
         music : 'music/rothiu.mp3'
     },
                     {
-        img : 'images/stay.png',
+        img : 'images/b.jpg',
         name : 'LoverBoy',
         artist : 'A-Wall',
         music : 'music/loveboy.mp3'
@@ -172,7 +172,7 @@ const music_list = [
         music : 'music/bored.mp3'
     },
                     {
-        img : 'images/stay.png',
+        img : 'images/c.png',
         name : 'Double take',
         artist : 'dhruv',
         music : 'music/double.mp3'
@@ -202,7 +202,7 @@ const music_list = [
         music : 'music/aibiet.mp3'
     },
                         {
-        img : 'images/stay.png',
+        img : 'images/d.jpg',
         name : 'Everything i wanted',
         artist : 'Billie Eilish',
         music : 'music/eiwant.mp3',
@@ -226,15 +226,15 @@ const music_list = [
         music : 'music/bautroihieuthu3.mp3',
     },
                           {
-        img : 'images/stay.png',
+        img : 'images/dd.jpg',
         name : 'Just Friends',
         artist : 'Audrey Mika',
         music : 'music/JustF.mp3',
     },
                            {
-        img : 'images/stay.png',
+        img : 'images/ac.jpg',
         name : 'HONESTY',
-        artist : 'Pink Sweat$ (Cover by BANG YE DAM - 방예담)',
+        artist : '(Cover BANG YE DAM - 방예담)',
         music : 'music/Hones.mp3',
     },
                             {
@@ -244,14 +244,14 @@ const music_list = [
         music : 'music/diudangem.mp3',
     },
                              {
-        img : 'images/stay.png',
+        img : 'images/abcc.jpg',
         name : 'necessary girl',
         artist : 'oceanfromtheblue',
         music : 'music/oceanfromtheblue.mp3',
     },
     
                               {
-        img : 'images/stay.png',
+        img : 'images/a.jpg',
         name : 'You Right',
         artist : 'Doja Cat',
         music : 'music/youphai.mp3',
@@ -269,7 +269,7 @@ const music_list = [
         music : 'music/Akuma.mp3',
     },
                                  {
-        img : 'images/stay.png',
+        img : 'images/c.jpg',
         name : 'Love me like that',
         artist : 'sam kim',
         music : 'music/loveme.mp3',
