@@ -29,7 +29,7 @@
             <div class="subnav">
               <button class="subnavbtn">Sever<i class="fa fa-caret-down"></i></button>
               <div class="subnav-content">
-                <a href="../ever1.php">Sever 1</a>
+                <a href="../sever1.php">Sever 1</a>
                 <a href="#link2">Đang cập nhật</a>
                 <a href="#link3">Đang cập nhật</a>
                 <a href="#link4">Đang cập nhật</a>
