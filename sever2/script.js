@@ -257,7 +257,7 @@ const music_list = [
         music : 'music/banandtoi.mp3',
     },
                                 {
-        img : 'images/stay.png',
+        img : 'images/am.jpg',
         name : 'Akuma no ko',
         artist : '「悪魔の子」by Ai Higuchi',
         music : 'music/Akuma.mp3',
