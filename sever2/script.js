@@ -1,4 +1,4 @@
-let now_playing = document.querySelector('.now-playing');
+ let now_playing = document.querySelector('.now-playing');
 let track_art = document.querySelector('.track-art');
 let track_name = document.querySelector('.track-name');
 let track_artist = document.querySelector('.track-artist');
@@ -62,7 +62,164 @@ const music_list = [
         name : 'Wished 1001',
         artist : 'kean Nguyen',
         music : 'music/abc.mp3'
-    }
+    },
+        {
+        img : 'images/stay.png',
+        name : 'Try Again',
+        artist : '디어 (d.ear), 재현 (Jaehyun)',
+        music : 'music/try.mp3'
+    },
+            {
+        img : 'images/stay.png',
+        name : 'Thank u, next',
+        artist : 'Ariana Grande',
+        music : 'music/thankunext.mp3'
+    },
+            {
+        img : 'images/stay.png',
+        name : 'Thay đổi',
+        artist : 'Lil wuyn',
+        music : 'music/thaydoi.mp3'
+    },
+            {
+        img : 'images/stay.png',
+        name : 'Vài câu nói có khiến người thay đổi',
+        artist : 'Grey D',
+        music : 'music/vaicaunoi.mp3'
+    },
+            {
+        img : 'images/stay.png',
+        name : 'Đường tôi chở em về',
+        artist : 'buitruonglinh',
+        music : 'music/toichoemve.mp3'
+    },
+            {
+        img : 'images/stay.png',
+        name : 'Phải chăng em đã yêu',
+        artist : 'Juky San',
+        music : 'music/phaichang.mp3'
+    },
+            {
+        img : 'images/stay.png',
+        name : 'Talking to the moon',
+        artist : 'Bruno Mars',
+        music : 'music/tknimoon.mp3'
+    },
+                {
+        img : 'images/stay.png',
+        name : 'Dù cho mai về sau',
+        artist : 'Buitruonglinh',
+        music : 'music/duchomai.mp3'
+    },
+                {
+        img : 'images/stay.png',
+        name : 'Kiss for me',
+        artist : 'Dojat',
+        music : 'music/kissfor.mp3'
+    },
+                    {
+        img : 'images/stay.png',
+        name : 'Dù cho mai về sau',
+        artist : 'Buitruonglinh',
+        music : 'music/duchomai.mp3'
+    },
+                    {
+        img : 'images/stay.png',
+        name : 'ifly',
+        artist : 'Bazzi',
+        music : 'music/ifly.mp3'
+    },
+                    {
+        img : 'images/stay.png',
+        name : 'good 4 u',
+        artist : 'Olivia Rodrigo ',
+        music : 'music/good4u.mp3'
+    },
+                    {
+        img : 'images/stay.png',
+        name : 'Có hẹn với thanh xuân',
+        artist : 'Monstar',
+        music : 'music/cohen.mp3'
+    },
+        {
+        img : 'images/stay.png',
+        name : 'Mama boy',
+        artist : 'amee',
+        music : 'music/mmboy.mp3'
+    },
+            {
+        img : 'images/stay.png',
+        name : 'Play date',
+        artist : 'Melanie Martinez',
+        music : 'music/playdate.mp3'
+    },
+                {
+        img : 'images/stay.png',
+        name : 'Rót',
+        artist : 'híu',
+        music : 'music/rothiu.mp3'
+    },
+                    {
+        img : 'images/stay.png',
+        name : 'LoverBoy',
+        artist : 'A-Wall',
+        music : 'music/loveboy.mp3'
+    },
+                    {
+        img : 'images/stay.png',
+        name : 'Bored',
+        artist : 'híu',
+        music : 'music/bored.mp3'
+    },
+                    {
+        img : 'images/stay.png',
+        name : 'Double take',
+        artist : 'dhruv',
+        music : 'music/double.mp3'
+    },
+                    {
+        img : 'images/stay.png',
+        name : "always, i'll care",
+        artist : 'Jeremy Zucker',
+        music : 'music/always.mp3'
+    },
+                    {
+        img : 'images/stay.png',
+        name : 'infinity',
+        artist : 'James Young',
+        music : 'music/Infinity.mp3'
+    },
+                    {
+        img : 'images/stay.png',
+        name : 'Dusk Till Dawn',
+        artist : 'ZAYN & Sia',
+        music : 'music/aibiet.mp3'
+    },
+                        {
+        img : 'images/stay.png',
+        name : 'Thay mọi cô gái yêu anh',
+        artist : 'Amee',
+        music : 'music/aibiet.mp3'
+    },
+                        {
+        img : 'images/stay.png',
+        name : 'Everything i wanted',
+        artist : 'Billie Eilish',
+        music : 'music/eiwant.mp3',
+    },
+                        {
+        img : 'images/stay.png',
+        name : 'em không hiểu',
+        artist : 'Chang , Minh huy',
+        music : 'music/emkhonghieu.mp3',
+    },
+                        {
+        img : 'images/stay.png',
+        name : 'Để bẩu trời nhìn hai ta',
+        artist : 'Hieuthuhai',
+        music : 'music/bautroihieuthu3.mp3',
+    },
+    
 ];
 
 loadTrack(track_index);
