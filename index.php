@@ -60,7 +60,7 @@
       $(".content").fadeIn(5000);
         });
       var iso = new Audio();
-      iso.src = "./kean.mp3";
+      iso.src = "./abcc.mp3";
 
       setInterval(()=>{
     const time = document.querySelector(".display #time");
