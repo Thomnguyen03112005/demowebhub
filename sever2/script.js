@@ -142,7 +142,7 @@ const music_list = [
         music : 'music/mmboy.mp3'
     },
             {
-        img : 'images/stay.png',
+        img : 'images/play.jpg',
         name : 'Play date',
         artist : 'Melanie Martinez',
         music : 'music/playdate.mp3'
