@@ -184,7 +184,7 @@ const music_list = [
         music : 'music/Infinity.mp3'
     },
                     {
-        img : 'images/stay.png',
+        img : 'images/alc.jpg',
         name : 'Dusk Till Dawn',
         artist : 'ZAYN & Sia',
         music : 'music/aibiet.mp3'
