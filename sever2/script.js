@@ -268,6 +268,12 @@ const music_list = [
         artist : 'sam kim',
         music : 'music/loveme.mp3',
     },
+{
+        img : 'images/ccf.jpg',
+        name : 'I love you So',
+        artist : 'The blue',
+        music : 'music/youphai.mp3',
+    },
     
 ];
 
