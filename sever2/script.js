@@ -251,7 +251,7 @@ const music_list = [
         music : 'music/youphai.mp3',
     },
                                {
-        img : 'images/stay.png',
+        img : 'images/you.jpg',
         name : 'You and I',
         artist : 'Katy Perry',
         music : 'music/banandtoi.mp3',
