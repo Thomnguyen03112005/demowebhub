@@ -272,7 +272,7 @@ const music_list = [
         img : 'images/ccf.jpg',
         name : 'I love you So',
         artist : 'The blue',
-        music : 'music/youphai.mp3',
+        music : 'music/iloveu.mp3',
     },
     
 ];
