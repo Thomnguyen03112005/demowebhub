@@ -118,7 +118,7 @@ const music_list = [
         music : 'music/duchomai.mp3'
     },
                     {
-        img : 'images/stay.png',
+        img : 'images/ccl.jpg',
         name : 'ifly',
         artist : 'Bazzi',
         music : 'music/ifly.mp3'
