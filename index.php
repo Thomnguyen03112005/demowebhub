@@ -38,8 +38,7 @@
 
           </div>
           
-          <div class="background">
-            <button type="button" class="hiden" onmousedown="iso.play()"></button>         
+          <div class="background">        
              <div class="wrapper">
               <div class="display">
                  <div id="time"></div>
