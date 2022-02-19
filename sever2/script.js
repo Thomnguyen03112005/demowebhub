@@ -178,7 +178,7 @@ const music_list = [
         music : 'music/always.mp3'
     },
                     {
-        img : 'images/stay.png',
+        img : 'images/csl.jpg',
         name : 'infinity',
         artist : 'James Young',
         music : 'music/Infinity.mp3'
@@ -209,15 +209,15 @@ const music_list = [
     },
                         {
         img : 'images/stay.png',
-        name : 'Để bẩu trời nhìn hai ta',
+        name : 'Để bầu trời nhìn hai ta',
         artist : 'Hieuthuhai',
         music : 'music/bautroihieuthu3.mp3',
     },
                          {
-        img : 'images/stay.png',
-        name : 'Để bẩu trời nhìn hai ta',
-        artist : 'Hieuthuhai',
-        music : 'music/bautroihieuthu3.mp3',
+        img : 'images/hoa.jpg',
+        name : 'Precious',
+        artist : 'DADUC',
+        music : 'music/precious.mp3',
     },
                           {
         img : 'images/dd.jpg',
