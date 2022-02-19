@@ -40,7 +40,7 @@ const music_list = [
         music : 'music/Rather Be.mp3'
     },
    {
-        img : 'images/stay.png',
+        img : 'images/di.jpg',
         name : 'Mind Games',
         artist : 'Sickick',
         music : 'music/abcd.mp3'
