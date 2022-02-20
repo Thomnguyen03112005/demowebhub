@@ -1,205 +1,199 @@
 {
-  img : 'youso',
-  name : 'You so sexy',
-  artist : 'LikyBo - Kraazy',
-  music : 'youso'
-},
-              {
   img : 'ccl',
   name : 'ifly',
   artist : 'Bazzi',
-  music : 'ifly'
+  src : 'ifly'
 },
               {
   img : 'cv',
   name : 'good 4 u',
   artist : 'Olivia Rodrigo ',
-  music : 'good4u'
+  src : 'good4u'
 },
               {
   img : 'cohenvoi',
   name : 'Có hẹn với thanh xuân',
   artist : 'Monstar',
-  music : 'cohen'
+  src : 'cohen'
 },
   {
   img : 'mama',
   name : 'Mama boy',
   artist : 'amee',
-  music : 'mmboy'
+  src : 'mmboy'
 },
       {
   img : 'play',
   name : 'Play date',
   artist : 'Melanie Martinez',
-  music : 'playdate'
+  src : 'playdate'
 },
           {
   img : 'rot',
   name : 'Rót',
   artist : 'híu',
-  music : 'rothiu'
+  src : 'rothiu'
 },
               {
   img : 'b',
   name : 'LoverBoy',
   artist : 'A-Wall',
-  music : 'loveboy'
+  src : 'loveboy'
 },
               {
   img : 'levi1',
   name : 'Bored',
   artist : 'Billie Eilish',
-  music : 'bored'
+  src : 'bored'
 },
               {
   img : 'c.png',
   name : 'Double take',
   artist : 'dhruv',
-  music : 'double'
+  src : 'double'
 },
               {
   img : 'alw',
   name : "always, i'll care",
   artist : 'Jeremy Zucker',
-  music : 'always'
+  src : 'always'
 },
               {
   img : 'csl',
   name : 'infinity',
   artist : 'James Young',
-  music : 'Infinity'
+  src : 'Infinity'
 },
               {
   img : 'alc',
   name : 'Dusk Till Dawn',
   artist : 'ZAYN & Sia',
-  music : 'aibiet'
+  src : 'aibiet'
 },
                   {
   img : 'thaymoi',
   name : 'Thay mọi cô gái yêu anh',
   artist : 'Amee',
-  music : 'thayamee'
+  src : 'thayamee'
 },
                   {
   img : 'd',
   name : 'Everything i wanted',
   artist : 'Billie Eilish',
-  music : 'eiwant',
+  src : 'eiwant',
 },
                   {
   img : 'emkhonghiu',
   name : 'em không hiểu',
   artist : 'Chang , Minh huy',
-  music : 'emkhonghieu',
+  src : 'emkhonghieu',
 },
                   {
   img : 'debautroi',
   name : 'Để bầu trời nhìn hai ta',
   artist : 'Hieuthuhai',
-  music : 'bautroihieuthu3',
+  src : 'bautroihieuthu3',
 },
                    {
   img : 'hoa',
   name : 'Precious',
   artist : 'DADUC',
-  music : 'precious',
+  src : 'precious',
 },
                     {
   img : 'dd',
   name : 'Just Friends',
   artist : 'Audrey Mika',
-  music : 'JustF',
+  src : 'JustF',
 },
                      {
   img : 'ac',
   name : 'HONESTY',
   artist : '(Cover BANG YE DAM - 방예담)',
-  music : 'Hones',
+  src : 'Hones',
 },
                       {
   img : 'diu',
   name : 'Dịu dàng em đến',
   artist : 'Erik',
-  music : 'diudangem',
+  src : 'diudangem',
 },
                        {
   img : 'abcc',
   name : 'necessary girl',
   artist : 'oceanfromtheblue',
-  music : 'oceanfromtheblue',
+  src : 'oceanfromtheblue',
 },
 
                         {
   img : 'a',
   name : 'You Right',
   artist : 'Doja Cat',
-  music : 'youphai',
+  src : 'youphai',
 },
                          {
   img : 'you',
   name : 'You and I',
   artist : 'Katy Perry',
-  music : 'banandtoi',
+  src : 'banandtoi',
 },
                           {
   img : 'am',
   name : 'Akuma no ko',
   artist : '「悪魔の子」by Ai Higuchi',
-  music : 'Akuma',
+  src : 'Akuma',
 },
                            {
   img : 'c',
   name : 'Love me like that',
   artist : 'sam kim',
-  music : 'loveme',
+  src : 'loveme',
 },
 {
   img : 'drunk',
   name : 'Drunk',
   artist : 'kean',
-  music : 'drunk',
+  src : 'drunk',
 },
 {
   img : 'mavel.png',
   name : 'Đâu đâu cũng là em',
   artist : 'Yongcaptain',
-  music : 'daucung',
+  src : 'daucung',
 },
 {
   img : 'emconghe',
   name : 'Em có nghe',
   artist : 'Kha',
-  music : 'emconghe',
+  src : 'emconghe',
 },
 {
   img : 'rolling.png',
   name : 'Rolling',
   artist : 'Richie D. ICY & AXTROBOY',
-  music : 'rolling',
+  src : 'rolling',
 },
 {
   img : 'chungta',
   name : 'Chúng ta của hiện tại',
   artist : 'Sơn Tùng MTP',
-  music : 'chungtacuahientai',
+  src : 'chungtacuahientai',
 },
 {
   img : 'cochac',
   name : 'có chắc yêu là đây',
   artist : 'Sơn Tùng MTP',
-  music : 'cochacyela',
+  src : 'cochacyela',
 },
 {
   img : 'muonroi',
   name : 'Muộn rồi mà sao còn',
   artist : 'Sơn Tùng MTP',
-  music : 'muonroi',
+  src : 'muonroi',
 },
 {
   img : 'noinay',
   name : 'Nơi này có em',
   artist : 'Sơn Tùng MTP',
-  music : 'noinaycoe',
+  src : 'noinaycoe',
 },
